@@ -4,15 +4,16 @@
 }
 
 body {
-    background-color: rgb(189, 135, 240)
+    background-color: #acacff;
+
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.507);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
 h1 {
@@ -39,4 +40,3 @@ a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
 }
-
